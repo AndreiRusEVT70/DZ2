@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF2DZ", "WF2DZ\WF2DZ.csproj", "{68114F18-00D3-40AA-94D8-AAF36FCCFBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68114F18-00D3-40AA-94D8-AAF36FCCFBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68114F18-00D3-40AA-94D8-AAF36FCCFBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68114F18-00D3-40AA-94D8-AAF36FCCFBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68114F18-00D3-40AA-94D8-AAF36FCCFBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D9D5FA4-28B6-4C59-8C6D-E7BF72D625EE}
+	EndGlobalSection
+EndGlobal
